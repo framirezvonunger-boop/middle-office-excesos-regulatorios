@@ -4,7 +4,7 @@ Más allá de los controles: aprendizajes sobre cumplimiento normativo, gestión
 El Middle Office de Inversiones actúa como segunda línea de control dentro del ciclo operativo financiero. Su función principal es supervisar que las operaciones ejecutadas por Front Office y procesadas por Back Office cumplan con la Ley de Mercado de Valores, la Ley Única de Fondos, las Normativas de Carácter General (NCG), circulares de la CMF, reglamentos internos y políticas de inversión.
 En este entorno, la gestión del conocimiento, la documentación técnica y la interpretación normativa son tan relevantes como las herramientas tecnológicas utilizadas para el monitoreo diario (Excel, Power Query, Bloomberg, Python, Access, Datatec, Magic, GPI y Pershing).
 
-3. Problema   
+3. Problema  
 Un desafío recurrente es la identificación correcta de excesos regulatorios.
 Los sistemas generan alertas que podrían representar incumplimientos normativos, pero una parte significativa corresponde a falsos positivos, derivados de:
 - Interpretaciones incompletas de la normativa.
