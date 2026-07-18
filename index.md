@@ -77,3 +77,4 @@ El desafío de diferenciar excesos regulatorios reales de falsos positivos permi
 - Autonomía profesional.
 - Confianza basada en evidencia.
 El resultado es un blog técnico que no solo cumple con los requisitos académicos de Coderhouse, sino que también aporta valor real al rol de Middle Office y fortalece mi desarrollo profesional.
+
