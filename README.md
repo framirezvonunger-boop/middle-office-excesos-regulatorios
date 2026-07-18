@@ -46,4 +46,3 @@ Autora
 Francisca Ramirez von Unger
 Middle Office de Inversiones
 Proyecto académico — Coderhouse
-
