@@ -1,4 +1,4 @@
-Más allá de los controles: aprendizajes sobre cumplimiento normativo, gestión del conocimiento y confianza profesional en Middle Office de Inversiones
+Más allá de los controles: aprendizajes sobre cumplimiento normativo, gestión del conocimiento y confianza profesional en Middle Office de Inversiones 
 
 1. Contexto  
 El Middle Office de Inversiones actúa como segunda línea de control dentro del ciclo operativo financiero. Su función principal es supervisar que las operaciones ejecutadas por Front Office y procesadas por Back Office cumplan con la Ley de Mercado de Valores, la Ley Única de Fondos, las Normativas de Carácter General (NCG), circulares de la CMF, reglamentos internos y políticas de inversión.
